@@ -1,4 +1,5 @@
-python-telegram-bot
+python-telegram-bot>=20.0
 supabase
 stripe
 python-dotenv
+openai>=1.0.0
